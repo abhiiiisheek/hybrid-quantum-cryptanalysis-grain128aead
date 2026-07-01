@@ -94,7 +94,7 @@ Oracle selectivity is evaluated using
 
 ### Measurement Distribution (7-bit Oracle)
 
-![Histogram](figures/histogram_7bit.png)
+![Histogram](Figures/histogram_7bit.png)
 
 The oracle produces two dominant candidate states, demonstrating Grover's amplitude amplification when approximately two valid solutions exist.
 
@@ -102,7 +102,7 @@ The oracle produces two dominant candidate states, demonstrating Grover's amplit
 
 ### Success Probability vs Oracle Selectivity
 
-![Oracle Selectivity](figures/success_vs_bits.png)
+![Oracle Selectivity](Figures/success_vs_bits.png)
 
 Increasing oracle selectivity significantly improves Grover's success probability by reducing the number of valid solutions.
 
@@ -110,7 +110,7 @@ Increasing oracle selectivity significantly improves Grover's success probabilit
 
 ### Success Probability vs Grover Iterations
 
-![Iterations](figures/success_vs_iterations.png)
+![Iterations](Figures/success_vs_iterations.png)
 
 The experimental results follow the theoretical amplification behavior of Grover's algorithm.
 
